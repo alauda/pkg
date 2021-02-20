@@ -25,7 +25,7 @@ This keeps all the related modules in a clear structure.
 
 ### TODO
 
-- [] Example code for usage
-- [] Unit tests
-- [] Github actions (unit tests, release)
-- [] Code coverage
+- [ ] Example code for usage
+- [ ] Unit tests
+- [ ] Github actions (unit tests, release)
+- [ ] Code coverage

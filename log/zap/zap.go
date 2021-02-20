@@ -1,7 +1,7 @@
 package zap
 
 import (
-	"github.com/danielfbm/pkg/log"
+	"github.com/alauda/pkg/log"
 	"github.com/go-logr/zapr"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
